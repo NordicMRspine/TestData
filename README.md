@@ -1,3 +1,3 @@
 # TestData
 
-test data for MRINavigator.jl
+Test data for MRINavigator.jl
